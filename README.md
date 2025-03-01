@@ -1,8 +1,6 @@
 ## Olá 👋
 
-Sou Engenheiro de Software, formado em Ciência da Computação.
-
-Tenho experiência com desenvolvimento backend, mas consigo dar uma pincelada no front.
+I'm a Full Stack Developer, back-end focused
 
 ## Contatos:
 
